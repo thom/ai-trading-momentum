@@ -58,10 +58,6 @@ Open the `trading_with_momentum.ipynb` notebook and follow the instructions.
 - [Jupyter Notebook Cheat Sheet](https://www.edureka.co/blog/wp-content/uploads/2018/10/Jupyter_Notebook_CheatSheet_Edureka.pdf)
 - [Jupyter Lab Cheat Sheet](https://www.anaconda.com/wp-content/uploads/2019/03/11-2018-JupyterLab-Notebook-Cheatsheet.pdf)
 
-## Requirements
-
-Graded according to the [Project Rubric](TBD).
-
 ## License
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
