@@ -1,4 +1,4 @@
-color_scheme = {
+color_scheme = dict({
     'index': '#B6B2CF',
     'etf': '#2D3ECF',
     'tracking_error': '#6F91DE',
@@ -13,8 +13,13 @@ color_scheme = {
     'shadow': 'rgba(0, 0, 0, 0.75)',
     'major_line': '#2D3ECF',
     'minor_line': '#B6B2CF',
-    'main_line': 'black'}
+    'main_line': 'black'
+})
 
 
 def generate_config():
-    return {'showLink': False, 'displayModeBar': False, 'showAxisRangeEntryBoxes': True}
+    return dict({
+        'showLink': False,
+        'displayModeBar': False,
+        'showAxisRangeEntryBoxes': True
+    })
