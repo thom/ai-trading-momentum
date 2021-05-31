@@ -5,7 +5,6 @@
 - [Dependencies](#dependencies)
 - [Instructions](#instructions)
 - [References](#references)
-- [Requirements](#requirements)
 - [License](#license)
 
 ## Introduction
@@ -30,10 +29,10 @@ The following instructions refer to Miniconda. Check out the respective links ab
 
 ## Instructions
 
-Create a new Conda environment installing the required packages:
+Create a new `ai-trading` Conda environment installing the required packages:
 
 ```bash
-conda create --name ai-trading --file ai-trading-env.txt
+conda create --file ai-trading.yml
 ```
 
 Activate the environment:
