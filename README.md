@@ -29,16 +29,16 @@ The following instructions refer to Miniconda. Check out the respective links ab
 
 ## Instructions
 
-Create a new `ai-trading` Conda environment installing the required packages:
+Create a new `ai-trading-momentum` Conda environment installing the required packages:
 
 ```bash
-conda create --file ai-trading.yml
+conda create --file ai-trading-momentum.yml
 ```
 
 Activate the environment:
 
 ```bash
-conda activate ai-trading
+conda activate ai-trading-momentum
 ```
 
 Start Jupyter:
