@@ -86,7 +86,7 @@ dependencies:
   - pexpect=4.8.0=pyhd3eb1b0_3
   - pickleshare=0.7.5=pyhd3eb1b0_1003
   - pip=21.1.1=py39h06a4308_0
-  - plotly=4.14.3=pyhd3eb1b0_0
+  - plotly=3.10.0=py_0
   - prometheus_client=0.10.1=pyhd3eb1b0_0
   - prompt-toolkit=3.0.17=pyh06a4308_0
   - prompt_toolkit=3.0.17=hd3eb1b0_0
@@ -130,3 +130,4 @@ dependencies:
   - zeromq=4.3.4=h2531618_0
   - zipp=3.4.1=pyhd3eb1b0_0
   - zlib=1.2.11=h7b6447c_3
+prefix: /home/thom/opt/conda/envs/ai-trading-momentum
